@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0jtsg9+YyToWUFyDafxTi2tK466ZBtSZl8cvc2HeqFY=",
+  "Source": "EYExpenseManager.API",
+  "BasePath": "_content/EYExpenseManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

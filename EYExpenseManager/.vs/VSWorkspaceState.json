@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EYExpenseManager.Application",
+    "\\EYExpenseManager.Application\\DTOs",
+    "\\EYExpenseManager.Application\\DTOs\\User",
+    "\\EYExpenseManager.Application\\Services",
+    "\\EYExpenseManager.Application\\Services\\Email",
+    "\\EYExpenseManager.Application\\Validators",
+    "\\EYExpenseManager.Application\\Validators\\User",
+    "\\EYExpenseManager.Infrastructure",
+    "\\EYExpenseManager.Infrastructure\\Repositories"
+  ],
+  "SelectedNode": "\\EYExpenseManager.Infrastructure\\Repositories\\UserRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
